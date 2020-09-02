@@ -13,4 +13,4 @@ POSIÇÃO   | INFORMAÇÃO
 02        | Aloc memoria c/ ponteiro
 03        | vetor de struct c/ alocação de memoria
 04        | sistema de cadastro c/ struct e funções
-05        | sistema de cadastro c/ struct,funções e ponteiros
+05        | sistema de cadastro c/ struct funções e ponteiros
