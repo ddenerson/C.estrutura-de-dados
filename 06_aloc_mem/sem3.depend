@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1600921888 source:/home/ddenerson/Documentos/Desenvolvimento/ponteiro/sem3/main.c
+	"funcao.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1600896448 /home/ddenerson/Documentos/Desenvolvimento/ponteiro/sem3/funcao.h
+
+1600921137 source:/home/ddenerson/Documentos/Desenvolvimento/ponteiro/sem3/funcao.c
+	"funcao.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
