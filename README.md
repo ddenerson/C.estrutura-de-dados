@@ -15,3 +15,11 @@ POSIÇÃO   | INFORMAÇÃO
 04        | sistema de cadastro c/ struct e funções
 05        | sistema de cadastro c/ struct funções e ponteiros
 06        | Aloc de memoria c/ cadastro e ligação com registro anterior
+
+
+# 02 - Lista encadeada (Linklist)
+
+
+POSIÇÃO  | INFORMAÇÃO
+-------- | ---------- 
+01       | Lista encadeada (LinkList) c/ cadastro no inicio e fim 
