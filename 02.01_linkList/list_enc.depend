@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1601347409 source:/home/ddenerson/Documentos/Desenvolvimento/ponteiro/list_enc/funcao.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+
+1601350757 /home/ddenerson/Documentos/Desenvolvimento/ponteiro/list_enc/header.h
+
+1601350284 source:/home/ddenerson/Documentos/Desenvolvimento/ponteiro/list_enc/main.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601352060 source:/home/ddenerson/Documentos/Desenvolvimento/ponteiro/linked_list[lista encadeada]/funcao.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+
+1601350757 /home/ddenerson/Documentos/Desenvolvimento/ponteiro/linked_list[lista encadeada]/header.h
+
