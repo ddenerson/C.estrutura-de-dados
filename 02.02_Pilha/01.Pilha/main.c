@@ -4,21 +4,6 @@
 #define MAX 2
 
 
-/*
-  1 - Desenvolva uma rotina para inverter a posição dos elementos de uma pilha P.
-
-  2 - Desenvolva uma função para testar se uma pilha P1 tem mais elementos que
-  uma pilha P2.
-
-  3 - Desenvolva uma função para testar se duas pilhas P1 e P2 são iguais.
-
-  4 - Suponha que um dado problema requer o uso de duas pilhas, onde cada pilha
-  suporta no máximo 10 elementos.Implementar a estrutura de dados de empilhar
-  e desempilhar para estas duas pilhas.
-
-*/
-
-
 struct Tpilha
 {
     int item;
