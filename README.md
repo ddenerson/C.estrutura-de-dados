@@ -17,7 +17,7 @@ POSIÇÃO   | INFORMAÇÃO
 06        | Aloc de memoria c/ cadastro e ligação com registro anterior
 
 
-# 02 - Lista encadeada (Linklist)
+# 02 - Estrutura de dados 
 
 
 POSIÇÃO  | INFORMAÇÃO
