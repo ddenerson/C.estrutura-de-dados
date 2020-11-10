@@ -5,7 +5,7 @@
 
 
 
-# 01 - Alocação de memoria (ponteiros)
+# 01 - Alocação Dinâmica de Memória
 
 POSIÇÃO   | INFORMAÇÃO
 --------- | --------
