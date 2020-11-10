@@ -22,5 +22,5 @@ POSIÇÃO   | INFORMAÇÃO
 
 POSIÇÃO  | INFORMAÇÃO
 -------- | ---------- 
-02.01    | Lista encadeada (LinkList) c/ cadastro no inicio e fim
-02.02    | Pilhas - manipulação da estrutura pilha
+02.01    | Listas encadeadas (Linked lists)
+02.02    | Pilhas (Stacks)
