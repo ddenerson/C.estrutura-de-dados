@@ -58,19 +58,28 @@ void mostrar_pilha(struct pilha*topo)
     }
 }
 
-//inserir no comeco da lista
+// inserir no comeco da lista
 void inserir_fila(int dados)
 {
-    //criando o link
+    // criando o link
     struct fila *link = (struct fila*) malloc(sizeof(struct fila));
 
+    // apontando para o primeiro valor
     link->num = dados;
+    link->prox = NULL;
 
-    //apontando para o primeiro no
-    link->prox = topo;
+    // coferindo a  nulidade do espaco
+    if(corpo == NULL)
+    {
+        topo = link;
+        corpo = link;
+    }
+    else
+    {
+        corpo->prox = link;
+        corpo = corpo->prox;
 
-    //apontando o primeiro no,para um novo no
-    topo = link;
+    }
 }
 
 
