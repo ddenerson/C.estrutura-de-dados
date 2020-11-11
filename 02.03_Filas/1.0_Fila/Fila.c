@@ -58,7 +58,7 @@ void mostrar_pilha(struct pilha*topo)
     }
 }
 
-// inserir no comeco da lista
+// inserir no comeco da fila
 void inserir_fila(int dados)
 {
     // criando o link
@@ -66,6 +66,7 @@ void inserir_fila(int dados)
 
     // apontando para o primeiro valor
     link->num = dados;
+    
     link->prox = NULL;
 
     // coferindo a  nulidade do espaco
