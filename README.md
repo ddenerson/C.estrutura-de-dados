@@ -23,5 +23,5 @@ POSIÇÃO   | INFORMAÇÃO
 POSIÇÃO  | INFORMAÇÃO
 -------- | ---------- 
 02.01    | Listas encadeadas (Linked lists)
-02.02    | Pilhas (Stacks)
+02.02    | Pilha (Stacks)
 02.03    | Filas (Queue)
