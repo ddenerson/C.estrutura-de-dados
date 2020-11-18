@@ -192,7 +192,7 @@ int main()
         printf("\n FILA ");
         printf("\n ----------");
         printf("\n");
-        imprimirLista();
+        imprimirFila();
         printf("\n");
         printf("\n PILHA 1");
         printf("\n ----------");
