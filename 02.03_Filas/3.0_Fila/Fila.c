@@ -30,7 +30,7 @@ struct fila
 struct fila *topo = NULL;
 struct fila *corpo = NULL;
 
-// inserir no comeco da lista
+// inserir no comeco da fila
 void inserir_fila(int dados)
 {
     // criando o link
@@ -52,20 +52,6 @@ void inserir_fila(int dados)
         corpo = corpo->prox;
 
     }
-}
-
-void imprimirLista()
-{
-    struct fila *ptr = topo;
-    printf("\n");
-
-    // imprimindo a lista desde o começo
-    while(ptr != NULL)
-    {
-        printf(" | %d | ",ptr->num);
-        ptr = ptr->prox;
-    }
-
 }
 
 
@@ -171,7 +157,6 @@ void mudanca_dados(struct fila *a,struct fila *b)
 }
 
 
-void imprimirLista();
 int deletar_pilha(int esc);
 void entrada(int valor,int esc);
 void mostrar_pilha(struct pilha*topo);
