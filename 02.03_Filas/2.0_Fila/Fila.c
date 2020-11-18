@@ -50,19 +50,6 @@ int deletar_pilha()
     return n;
 }
 
-void mostrar_pilha(struct pilha*topo)
-{
-    if(topo == NULL)
-    {
-        printf("");
-    }
-    else
-    {
-        //Chamando recursivamente
-        printf("| %d | \n", topo->num);
-        mostrar_pilha(topo->prox);
-    }
-}
 
 // inserir no comeco da fila
 void inserir_fila(int dados)
