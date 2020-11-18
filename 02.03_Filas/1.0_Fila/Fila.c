@@ -83,21 +83,6 @@ void inserir_fila(int dados)
     }
 }
 
-
-void imprimirLista()
-{
-    struct fila *ptr = topo;
-    printf("\n");
-
-    // imprimindo a lista desde o começo
-    while(ptr != NULL)
-    {
-        printf(" | %d | ",ptr->num);
-        ptr = ptr->prox;
-    }
-
-}
-
 struct fila*deletar_fila()
 {
 
