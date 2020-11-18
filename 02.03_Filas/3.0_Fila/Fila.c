@@ -50,10 +50,22 @@ void inserir_fila(int dados)
     {
         corpo->prox = link;
         corpo = corpo->prox;
-
     }
 }
 
+void imprimirFila()
+{
+    struct fila *ptr = topo;
+    printf("\n");
+
+    // imprimindo a fila desde o começo
+    while(ptr != NULL)
+    {
+        printf(" | %d | ",ptr->num);
+        ptr = ptr->prox;
+    }
+
+}
 
 void entrada(int valor, int esc)
 {
@@ -156,7 +168,7 @@ void mudanca_dados(struct fila *a,struct fila *b)
     b->num = temp;
 }
 
-
+void imprimirFila(); 
 int deletar_pilha(int esc);
 void entrada(int valor,int esc);
 void mostrar_pilha(struct pilha*topo);
