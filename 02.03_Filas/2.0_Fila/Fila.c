@@ -64,7 +64,7 @@ void mostrar_pilha(struct pilha*topo)
     }
 }
 
-// inserir no comeco da lista
+// inserir no comeco da fila
 void inserir_fila(int dados)
 {
     // criando o link
@@ -89,7 +89,7 @@ void inserir_fila(int dados)
 }
 
 
-void imprimirLista()
+void imprimirFila()
 {
     struct fila *ptr = topo;
     printf("\n");
