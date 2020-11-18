@@ -133,7 +133,7 @@ void ordenar(struct fila *comeco)
     struct fila *ptr1;
     struct fila *lptr1 = NULL;
 
-    // conferindo lista vazia
+    // conferindo fila vazia
     if (comeco == NULL)
         return;
 
@@ -142,7 +142,7 @@ void ordenar(struct fila *comeco)
         mudanca = 0;
         ptr1 = comeco;
 
-        // so entra se a lista não esta vazia
+        // so entra se a fila não esta vazia
         while(ptr1->prox != lptr1)
         {
             // comparando elementos futuros
@@ -164,7 +164,7 @@ void ordenar(struct fila *comeco)
 // função que faz mudança de dados entre os nos
 void mudanca_dados(struct fila *a,struct fila *b)
 {
-    // fazendo a mudança dos numeros dentro da lista
+    // fazendo a mudança dos numeros dentro da fila
     int temp = a->num;
     a->num = b->num;
     b->num = temp;
