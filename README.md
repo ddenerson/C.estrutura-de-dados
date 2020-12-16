@@ -27,5 +27,6 @@ POSIÇÃO  | INFORMAÇÃO
 02.03    | Filas (Queue)
 
 
+![img](https://imgur.com/a/LyTrDWu)
 
 
