@@ -9,7 +9,7 @@
 
 POSIÇÃO   | INFORMAÇÃO
 --------- | --------
-01        | Ponteiros
+01        | <a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/01.01_Aloca%C3%A7%C3%A3o%20Din%C3%A2mica%20de%20Mem%C3%B3ria/06_Aloca%C3%A7%C3%A3o%20de%20mem%C3%B3ria">Ponteiros<a/>
 02        | Aloc de memoria com ponteiro
 03        | vetor de struct com alocação de memoria
 04        | Sistema de cadastro com struct e funções
