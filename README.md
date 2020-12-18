@@ -11,8 +11,8 @@ POSIÇÃO   | INFORMAÇÃO
 --------- | --------
 01        | <a href="https://github.com/ddenerson/C.estrutura-de-dados/blob/master/01.01_Aloca%C3%A7%C3%A3o%20Din%C3%A2mica%20de%20Mem%C3%B3ria/01_ponteiro.c">Ponteiros<a/>
 02        | <a href="https://github.com/ddenerson/C.estrutura-de-dados/blob/master/01.01_Aloca%C3%A7%C3%A3o%20Din%C3%A2mica%20de%20Mem%C3%B3ria/02_inversao.c">Aloc de memoria com ponteiro<a/>
-03        | vetor de struct com alocação de memoria
-04        | Sistema de cadastro com struct e funções
+03        | <a href="https://github.com/ddenerson/C.estrutura-de-dados/blob/master/01.01_Aloca%C3%A7%C3%A3o%20Din%C3%A2mica%20de%20Mem%C3%B3ria/03_cadastro.c">vetor de struct com alocação de memoria<a/>
+04        | <a href="https://github.com/ddenerson/C.estrutura-de-dados/blob/master/01.01_Aloca%C3%A7%C3%A3o%20Din%C3%A2mica%20de%20Mem%C3%B3ria/04_cad_struct.c">Sistema de cadastro com struct e funções<a/>
 05        | sistema de cadastro com struct funções e ponteiros
 06        | Aloc de memoria com cadastro e ligação com registro anterior
 
