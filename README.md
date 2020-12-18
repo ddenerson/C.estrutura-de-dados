@@ -5,7 +5,7 @@
 
 
 
-# 01 - Alocação Dinâmica de Memória
+#  - Alocação Dinâmica de Memória
 
 POSIÇÃO   | INFORMAÇÃO
 --------- | --------
@@ -17,7 +17,7 @@ POSIÇÃO   | INFORMAÇÃO
 06        |<a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/01.01_Aloca%C3%A7%C3%A3o%20Din%C3%A2mica%20de%20Mem%C3%B3ria/06_Aloca%C3%A7%C3%A3o%20de%20mem%C3%B3ria">Aloc de memoria com cadastro e ligação com registro anterior<a/>
 
 
-# 02 - Estruturas
+#  - Estruturas
 
 
 POSIÇÃO  | INFORMAÇÃO
