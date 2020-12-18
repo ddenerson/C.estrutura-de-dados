@@ -9,12 +9,12 @@
 
 POSIÇÃO   | INFORMAÇÃO
 --------- | --------
-01        | Ponteiro
-02        | Aloc de memoria c/ ponteiro
-03        | vetor de struct c/ alocação de memoria
-04        | sistema de cadastro c/ struct e funções
-05        | sistema de cadastro c/ struct funções e ponteiros
-06        | Aloc de memoria c/ cadastro e ligação com registro anterior
+01        | Ponteiros
+02        | Aloc de memoria com ponteiro
+03        | vetor de struct com alocação de memoria
+04        | Sistema de cadastro com struct e funções
+05        | sistema de cadastro com struct funções e ponteiros
+06        | Aloc de memoria com cadastro e ligação com registro anterior
 
 
 # 02 - Estruturas
