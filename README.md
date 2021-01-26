@@ -25,7 +25,7 @@ POSIÇÃO  | INFORMAÇÃO
 02.01    | <a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/%0A02.01_Listas%20">Listas encadeadas (Linked lists)<a/>
 02.02    | <a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/02.02_Pilhas">Pilhas (Stacks)<a/>
 02.03    | <a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/02.03_Filas">Filas (Queue)<a/>
-02.04    | <a href="https://github.com/ddenerson/estrutura-de-dados-em.C/tree/master/02.04_%C3%81rvore"> Árvore binária<a/>
+02.04    | <a href="https://github.com/ddenerson/estrutura-de-dados-em.C/tree/master/02.04_%C3%81rvore%20binario"> Árvore binária<a/>
 
 
 
