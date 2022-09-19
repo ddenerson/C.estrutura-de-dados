@@ -1,11 +1,11 @@
-# Estrutura de dados 
+# Algorithms and Data Structures 
 ---------------------------------------------------------------------------------------------------------------
 
-ℂ𝕠𝕞𝕡𝕚𝕝𝕒𝕕𝕠 𝕕𝕖 𝕖𝕩𝕖𝕣𝕔𝕚𝕔𝕚𝕠𝕤 𝕢𝕦𝕖 𝕣𝕖𝕦𝕟𝕖 𝕡𝕚𝕝𝕒𝕣𝕖𝕤 𝕢𝕦𝕖 𝕗𝕠𝕣𝕒𝕞 𝕚𝕞𝕡𝕠𝕣𝕥𝕒𝕟𝕥𝕖𝕤, 𝕡𝕒𝕣𝕒 𝕠 𝕞𝕖𝕦 𝕒𝕡𝕣𝕖𝕟𝕕𝕚𝕫𝕒𝕕𝕠 𝕖𝕞 𝕖𝕤𝕥𝕣𝕦𝕥𝕦𝕣𝕒 𝕕𝕖 𝕕𝕒𝕕𝕠𝕤.
+ Data structures and algorithms used in day-to-day applications
 
 
 
-#  - Alocação Dinâmica de Memória
+###  - Dynamic Memory Allocation
 
 POSIÇÃO   | INFORMAÇÃO
 --------- | --------
@@ -17,7 +17,7 @@ POSIÇÃO   | INFORMAÇÃO
 06        |<a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/01.01_Aloca%C3%A7%C3%A3o%20Din%C3%A2mica%20de%20Mem%C3%B3ria/06_Aloca%C3%A7%C3%A3o%20de%20mem%C3%B3ria">Aloc de memoria com cadastro e ligação com registro anterior<a/>
 
 
-#  - Estruturas
+###  - Table of contents
 
 
 POSIÇÃO  | INFORMAÇÃO
@@ -25,7 +25,7 @@ POSIÇÃO  | INFORMAÇÃO
 02.01    | <a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/%0A02.01_Listas%20">Listas encadeadas (Linked lists)<a/>
 02.02    | <a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/02.02_Pilhas">Pilhas (Stacks)<a/>
 02.03    | <a href="https://github.com/ddenerson/C.estrutura-de-dados/tree/master/02.03_Filas">Filas (Queue)<a/>
-02.04    | <a href="https://github.com/ddenerson/estrutura-de-dados-em.C/tree/master/02.04_%C3%81rvore%20binario"> Árvore binária<a/>
+02.04    | <a href="https://github.com/ddenerson/estrutura-de-dados-em.C/tree/master/02.04_%C3%81rvore%20binario"> Árvore binária (Binary Trees)<a/>
 
 
 
